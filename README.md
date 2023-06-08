@@ -5,5 +5,5 @@
 - The code is followed by this tutorial just change frome firebase to supbabase
 https://www.youtube.com/watch?v=zQyrwxMPm88
 
-- Live demo:
+- Live demo: https://supabase-simple-chatapp.vercel.app/
 # Have fun with your supabase !!!!!
